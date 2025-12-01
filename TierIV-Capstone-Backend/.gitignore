@@ -1,0 +1,12 @@
+=======
+/cache
+/CARLA_PythonAPI
+**/__pycache__
+*.json
+*.env
+param.xlsx
+*.ipynb
+*.DS_Store
+/templates
+test.py
+*/~$*
