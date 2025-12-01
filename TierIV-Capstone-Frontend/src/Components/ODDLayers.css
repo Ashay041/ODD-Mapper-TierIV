@@ -1,0 +1,6 @@
+/* src/ODDLayers.css */
+
+/* nothing fancy needed here unless you want custom zoom/hover styles */
+.leaflet-interactive { /* target SVG paths if needed */
+  cursor: pointer;
+}

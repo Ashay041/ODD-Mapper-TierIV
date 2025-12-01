@@ -1,0 +1,2144 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9548028,
+                36.1677315
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                314312692
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9507495,
+                36.1571524
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                314312707
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9504753,
+                36.1510163
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                314312734
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9504183,
+                36.1451411
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                314312748
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9885865,
+                36.102663
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                314324306
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9505884,
+                36.1699015
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                315751789
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9504933,
+                36.1448513
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                462321063
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9530667,
+                36.1642263
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                469045008
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9656867,
+                36.1178228
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1164602701
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9506346,
+                36.1571994
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1323840372
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9599348,
+                36.1198153
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1361504467
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8086296,
+                35.9527087
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611153943
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8165577,
+                35.9677582
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611154654
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8257964,
+                35.9737014
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611155168
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8443983,
+                35.9868863
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611156442
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8839355,
+                36.0391138
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611160074
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.907192,
+                36.0743678
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611578281
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9227245,
+                36.0935351
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1611583501
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9150379,
+                36.1136892
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1616105159
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9223997,
+                36.1185437
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1616105944
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.924867,
+                36.127345
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1616107418
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9172755,
+                36.1390431
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1616108427
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9842039,
+                36.0985503
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617148087
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9852085,
+                36.0995383
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617148437
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9802857,
+                36.1014671
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617149193
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9754864,
+                36.1035465
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617149855
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9300549,
+                36.1028048
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617185863
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9426234,
+                36.1117413
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617187169
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9344845,
+                36.1131361
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617187433
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9429309,
+                36.1145607
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617187665
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9379313,
+                36.1161455
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617187995
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9416291,
+                36.1172957
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617188203
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9432944,
+                36.1178055
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617188310
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.945865,
+                36.1186294
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617188375
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9301045,
+                36.119999
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617188554
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.943582,
+                36.1200252
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617188569
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9435703,
+                36.1238916
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617189076
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9716935,
+                36.1347364
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617200991
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9774962,
+                36.1453905
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617203178
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9676,
+                36.1474673
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617203597
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9789698,
+                36.1480034
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617203726
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9657638,
+                36.1179214
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617224221
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9715127,
+                36.1317465
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617230064
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9714296,
+                36.1333104
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1617230680
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9471576,
+                36.1583856
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618259333
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9517926,
+                36.1599281
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618259671
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9516666,
+                36.1599562
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618259674
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9512226,
+                36.1644182
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618260894
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9579174,
+                36.1674428
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618261345
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9552772,
+                36.168513
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618261626
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9551555,
+                36.168551
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618261658
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9562423,
+                36.1698563
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1618262034
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9689791,
+                36.1063002
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619554292
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9658872,
+                36.107866
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619554522
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9612386,
+                36.1096126
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619554879
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9611918,
+                36.1096738
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619554924
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9548969,
+                36.1114094
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555252
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9515601,
+                36.1118843
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555402
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9493881,
+                36.1123931
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555485
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9558006,
+                36.1127129
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555544
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9547596,
+                36.1128469
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555585
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9533084,
+                36.1131164
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555626
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9527083,
+                36.1131857
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555642
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9606263,
+                36.1134701
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555663
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9527778,
+                36.1143923
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555726
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9489618,
+                36.114547
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555727
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9517626,
+                36.1144354
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555729
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9555756,
+                36.1153753
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555806
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9528783,
+                36.115886
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555849
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.952916,
+                36.1165774
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555924
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9523455,
+                36.116587
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555933
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9492287,
+                36.1165965
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619555943
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9573659,
+                36.1191835
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556084
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9518883,
+                36.1192239
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556087
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9529586,
+                36.1192152
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556090
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9598033,
+                36.1197812
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556103
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9582801,
+                36.1238822
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556377
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9503735,
+                36.1238221
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556408
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9499943,
+                36.129597
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556894
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9553557,
+                36.1296042
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619556923
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9511088,
+                36.1336044
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619557046
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9632418,
+                36.1479075
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619557420
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9406091,
+                36.1410861
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619585579
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.958582,
+                36.1447673
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619585853
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9482746,
+                36.1483065
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619586302
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9574481,
+                36.148359
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619586311
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9459178,
+                36.1483913
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619586329
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9503053,
+                36.1535909
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619586985
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9504299,
+                36.1535915
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1619586986
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9532043,
+                36.1642037
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1630663074
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.954729,
+                36.1678394
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1630663104
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9265843,
+                36.1495152
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                1633281883
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9346874,
+                36.1297147
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                3563343594
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.952072,
+                36.1187558
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                3792971809
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9540291,
+                36.139116
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                3808514368
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9503525,
+                36.1510127
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                5806227943
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.8517023,
+                35.9983851
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6019110101
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9886144,
+                36.1027501
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6942634959
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9561622,
+                36.1699189
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6961587877
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9503861,
+                36.1491247
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6961627778
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9505004,
+                36.1491281
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6961627780
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9503906,
+                36.1483084
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6961634423
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9505206,
+                36.1483178
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6961634424
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.956626,
+                36.1567373
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                6982746725
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9298924,
+                36.102019
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7026092794
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9300328,
+                36.1021046
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7026092795
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9294457,
+                36.1019831
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7026092796
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9295489,
+                36.1017892
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7026092800
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9297823,
+                36.1022497
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7026092802
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9547466,
+                36.1676356
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7522615798
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.871635,
+                36.0276446
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                7551685788
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9490672,
+                36.1145408
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                8108040533
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9600082,
+                36.1198313
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                8141603245
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.95438,
+                36.1327412
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                8934162653
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9600583,
+                36.1191553
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                9014290932
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9697548,
+                36.0512371
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                9632083597
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9603208,
+                36.1165586
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                10062991743
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9832249,
+                36.1133418
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                10223598150
+            ],
+            "odd_compliant": true
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137.9608603,
+                36.141698
+            ]
+        },
+        "properties": {
+            "feature_type": "traffic_signal",
+            "osmid": [
+                "node",
+                11124657389
+            ],
+            "odd_compliant": true
+        }
+    }
+]

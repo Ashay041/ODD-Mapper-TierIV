@@ -1,0 +1,213 @@
+/* src/Components/Sidebar.css */
+.sidebar {
+  width: 350px;
+  height: 100vh;         /* fill full viewport height */
+  overflow-y: auto;      /* enable vertical scrolling */
+  overflow-x: hidden;    /* prevent horizontal scroll */
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-right: 1px solid #ccc;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+  flex: 0 0 auto;
+}
+
+.sidebar-checkbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.sidebar-checkbox input {
+  margin-right: 8px;
+}
+
+.feature-filters {
+  margin-top: 10px;
+  flex: 0 0 auto;
+}
+
+.feature-filter {
+  margin-bottom: 12px;
+}
+
+.feature-filter strong {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.feature-filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background-color: #eaeaea;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.feature-filter-header strong {
+  font-size: 14px;
+}
+
+.feature-filter-body {
+  margin-top: 4px;
+  padding-left: 12px;
+}
+
+.feature-checkbox {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 13px;
+}
+
+.sidebar-submit {
+  margin-top: auto;      /* push submit button to the bottom */
+  padding: 10px 16px;
+  font-size: 14px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.sidebar-submit:hover {
+  background-color: #0056b3;
+}
+
+/* Junction‐dropdown styles (if still used) */
+.junction-dropdown {
+  margin: 16px 0;
+  flex: 0 0 auto;
+}
+
+.junction-types {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.junction-types button {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.junction-types button.active {
+  background: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+.odd-type-dropdown {
+  margin-top: 20px;
+  margin-bottom: 5px; /* Add spacing below the dropdown */
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+
+.odd-type-dropdown select {
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Hide metadata for school zones and parking lots unless hovered */
+.hover-metadata .feature-filter-body {
+  display: none;
+}
+
+.hover-metadata:hover .feature-filter-body {
+  display: block;
+}
+
+/* Remove dot for junctions */
+.feature-filter.junctions .feature-filter-header::before {
+  content: none;
+}
+
+/* Shrink size of tags for traffic signals */
+.small-tags .feature-checkbox {
+  font-size: 12px; /* Shrink font size */
+  padding: 2px; /* Reduce padding */
+}
+
+/* Hide junction markers completely */
+.junction-marker-hidden {
+  display: none !important;
+  background: none;
+  border: none;
+  width: 0;
+  height: 0;
+}
+
+/* Hide junction circular nodes */
+.leaflet-marker-icon.junction-marker {
+  display: none !important;
+}
+
+/* Hide default text labels for parking lots and school zones */
+.leaflet-tooltip-pane .leaflet-tooltip {
+  display: none !important;
+}
+
+/* Or more specifically target parking lot and school zone tooltips */
+.parking-lot-tooltip,
+.school-zone-tooltip {
+  display: none !important;
+}
+
+/* Only show tooltips on hover */
+.leaflet-marker-icon:hover + .leaflet-tooltip,
+.leaflet-interactive:hover + .leaflet-tooltip {
+  display: block !important;
+}
+
+.school-zone-tooltip,
+.parking-lot-tooltip {
+  background: rgba(255, 255, 255, 0.8); /* Light background */
+  border: 1px solid #ccc; /* Optional border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 4px; /* Padding for text */
+  font-size: 12px; /* Adjust font size */
+  color: #333; /* Text color */
+}
+
+/* Map polygon styles with hover effect */
+.leaflet-interactive {
+  cursor: pointer;
+}
+
+.leaflet-interactive:hover {
+  opacity: 0.7;
+}
+
+/* Specific styles for polygons, if needed */
+.leaflet-polygon {
+  fill-opacity: 0.3;
+  stroke-width: 2;
+}
+
+.leaflet-polygon:hover {
+  fill-opacity: 0.5;
+  stroke-width: 3;
+}
+
+
